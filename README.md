@@ -1,2 +1,3 @@
-# Sit-on-our-chair
-Project of online shop
+Website template
+
+https://jhenek.github.io/Sit-on-our-chair/
